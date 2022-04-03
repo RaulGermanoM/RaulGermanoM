@@ -1,6 +1,6 @@
 - Olá, sou @RaulGermanoM
-- Sou tecnico em desenvolvimento de sistemas (DS. ETEC - CENTRO PAULA SOUZA)
-- Cursando o ensino superior em Analise e Desenvolvimento de sistemas (ADS. UNIVERSIDADE CRUZEIRO DO SUL - UNICSUL CAMPUS SÃO MIGUEL) 
+- Sou técnico em Desenvolvimento de Sistemas (DS. ETEC - CENTRO PAULA SOUZA)
+- Cursando o ensino superior em Análise e Desenvolvimento de Sistemas (ADS. UNIVERSIDADE CRUZEIRO DO SUL - UNICSUL CAMPUS SÃO MIGUEL) 
 
 
 
